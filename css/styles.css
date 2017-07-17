@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+}
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+}
+h1 {
+  margin-bottom: 15px;
+  /*text-align: center;*/
+  font-size: 1.75em;
+  margin-top: 0;
+}
+
+#menu-tile p{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  font-family: Helvetica;
+  color: black;
+  text-align:left;
+  font-size: 18px;
+}
+
+#menu-tile{
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+  font-size: 1.75em;
+  color: black;
+  background: #9D9A99;
+}
+
+#nav-list{
+	background-color: beige;
+	text-align: center;
+
+}
+
+#nav-list li{
+	border: 1px solid gray;
+}
